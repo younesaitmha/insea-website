@@ -251,6 +251,7 @@
             <div class="col-md-3 register-left">
                 <img src="https://image.ibb.co/n7oTvU/logo_white.png" alt=""/>
                 <h2>Bienvenue</h2>
+                <br>
                 <h3>l'inscription finira dans:</h3>
                 <p id="demo" class="lead text-danger"></p>
             </div>

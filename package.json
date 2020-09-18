@@ -1,0 +1,23 @@
+{
+  "name": "insea_website",
+  "version": "1.0.0",
+  "description": "university website",
+  "main": "index.php",
+  "dependencies": {
+    "jshint": "^2.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "registration",
+    "school",
+    "website",
+    "university",
+    "college",
+    "university website"
+  ],
+  "author": "Younes Ait M'ha",
+  "license": "ISC"
+}
